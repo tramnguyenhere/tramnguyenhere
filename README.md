@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello, it's nice to see you here 👋
 
-<!--
-**tramnguyenhere/tramnguyenhere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💫 About me
 
-Here are some ideas to get you started:
+I am Tram Nguyen - an entry-level web developer (specializing in Frontend Web Development).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+☁️ Prior to this, I received my Bachelor's Degree in Business Administration from Vaasa University of Applied Sciences. However, I have always been passionate about technology and been self-taught coding in my spare time, as well as completed several online courses to gain the skills and knowledge necessary for the tech industry.
+
+## ✈️ About my orientation
+
+🌱 I am excited to take my passion for technology to the next level and pursue a career in frontend development, where I can use my problem-solving, collaboration and communication skills to create meaningful and user-friendly applications. Till now, I have learned and built some projects utilized <strong>JavaScript, Typescript</strong>, and different modern libraries such as <strong>ReactJs, NodeJs, Redux, Bootstrap</strong>, etc.
+
+📪  If you are finding a fresh passionate web developer, do not hesitate to contact me via email at [tramngoc1402@gmail.com](tramngoc1402@gmail.com)
