@@ -8,6 +8,6 @@ I am Tram Nguyen - an entry-level web developer (specializing in Frontend Web De
 
 ## ✈️ About my orientation
 
-🌱 I am excited to take my passion for technology to the next level and pursue a career in frontend development, where I can use my problem-solving, collaboration and communication skills to create meaningful and user-friendly applications. Till now, I have learned and built some projects utilized <strong>JavaScript, Typescript</strong>, and different modern libraries such as <strong>ReactJs, NodeJs, Redux, Bootstrap</strong>, etc.
+🌱 I am excited to take my passion for technology to the next level and pursue a career in frontend development, where I can use my problem-solving, collaboration and communication skills to create meaningful and user-friendly applications. Till now, I have learned and built some projects utilized <strong>JavaScript, Typescript</strong>, and different modern libraries and frameworks such as <strong>React.js, Vue.js, Node.js, Redux, Vuex, Bootstrap</strong>, etc.
 
 📪  If you are finding a fresh passionate web developer, do not hesitate to contact me via email at [tramngoc1402@gmail.com](tramngoc1402@gmail.com)
