@@ -1,4 +1,4 @@
-### Hello, it's nice to see you here 👋 In hibernating mode since Oct 24 for work
+### Hello, it's nice to see you here 👋 In hibernating mode since 4 Oct 24 for work
 
 ## 💫 About me
 
